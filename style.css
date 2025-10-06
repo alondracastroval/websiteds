@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;;
+}
+
+p {
+    width: 800 px;
+    margin: auto;
+}
+
+#main {
+    color: red;
+    background-color: lightpink;
+
+}
+
+.A{
+    border: 5 px solid black ;
+}
